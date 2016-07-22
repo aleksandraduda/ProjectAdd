@@ -4,9 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProjectAdd
+namespace ProjectVSonline
 {
-    public class Class1
+    public class Program
     {
+
+        public int Suma(int a, int b)
+        {
+            int suma = a + b;
+            return suma;
+        }
     }
 }
