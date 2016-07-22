@@ -12,7 +12,7 @@ namespace ProjectVSonline
         public int Suma(int a, int b)
         {
             int suma = a + b;
-            return suma;
+            return suma; 
         }
     }
 }
